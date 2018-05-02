@@ -2,7 +2,7 @@
 
 
 App you must installed:
-1. ``` Microsoft Visual Studio Update 3 [download here](https://my.visualstudio.com/Downloads?q=visual%20studio%202015&wt.mc_id=o~msft~vscom~older-downloads) ```
+1. Microsoft Visual Studio Update 3 [download here](https://my.visualstudio.com/Downloads?q=visual%20studio%202015&wt.mc_id=o~msft~vscom~older-downloads)
 
 You can start in your locally, follow this steps :
 1. ``` git clone https://github.com/aditiadj/helloDotNet.git ```

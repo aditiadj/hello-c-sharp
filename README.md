@@ -1,4 +1,4 @@
-﻿## Getting started C#
+﻿## Getting started with C#
 
 
 Software you must installed:

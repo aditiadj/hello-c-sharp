@@ -8,7 +8,7 @@ You can start in your locally, follow this steps :
 1. ``` git clone https://github.com/aditiadj/helloDotNet.git ``` in terminal
 2. ``` cd helloDotNet ```
 3. ``` dotnet run ```
-4. ``` Open browser, and access: http://localhost:5000/about/contacts ```
+4. Open browser, and access: ``` http://localhost:5000/about/contacts ```
 
 #### Tech Stack
 1. C#
